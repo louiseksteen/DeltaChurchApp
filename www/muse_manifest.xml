@@ -1,0 +1,73 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="deltapp2.co.za" resolutions="1x" timestamp="1473201496532">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="index.css" crc="373837476" ref="index"/>
+    <file name="contact.css" crc="441804484" ref="contact"/>
+    <file name="giving.css" crc="249849163" ref="giving"/>
+    <file name="construction.css" crc="313122125" ref="construction"/>
+    <file name="bible.css" crc="3910612950" ref="bible"/>
+    <file name="events.css" crc="3862152708" ref="events"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:contact:giving:construction:events:bible"/>
+    <file name="museutils.js" crc="3851988764" ref="index:contact:giving:construction:events:bible"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:giving:construction:events:bible"/>
+    <file name="museconfig.js" crc="169177150" ref="index:contact:giving:construction:events:bible"/>
+    <file name="webpro.js" crc="4067903014" ref="index:contact:giving:events"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="index:events"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="index:events"/>
+    <file name="touchswipe.js" crc="474750357" ref="index:events"/>
+    <file name="pie.js" crc="3831537696" ref="index:giving"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index:contact:giving:construction:events:bible"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:contact:giving:construction:events:bible"/>
+    <file name="require.js" crc="4108833657" ref="index:contact:giving:construction:events:bible"/>
+    <file name="form_check.php" crc="121412709" ref="contact"/>
+    <file name="form_throttle.php" crc="4268640971" ref="contact"/>
+    <file name="form_process.php" crc="444429785" ref="contact"/>
+    <file name="form-u1183.php" crc="4207417021" ref="contact"/>
+    <file name="musewpdisclosure.js" crc="338211507" ref="giving"/>
+  </folder>
+  <folder name="images">
+    <file name="img_5376w.jpg" crc="4206522209" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:events:bible"/>
+    <file name="img_5388w.jpg" crc="4011475159" seo="true" ref="index"/>
+    <file name="img_5393w.jpg" crc="4168210360" seo="true" ref="index"/>
+    <file name="img_5394w.jpg" crc="479155608" seo="true" ref="index"/>
+    <file name="img_5404w.jpg" crc="440189241" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:events"/>
+    <file name="church-logo.jpg" crc="140995243" seo="true" ref="index"/>
+    <file name="community_logo.jpg" crc="4121441633" seo="true" ref="index"/>
+    <file name="buildlogo.jpg" crc="4001994293" seo="true" ref="index"/>
+    <file name="eventslogo.jpg" crc="4281868171" seo="true" ref="index"/>
+    <file name="sermonlogo.jpg" crc="3916294382" seo="true" ref="index"/>
+    <file name="biblelogo.jpg" crc="4157826580" seo="true" ref="index"/>
+    <file name="giving-logo.jpg" crc="357417203" seo="true" ref="index"/>
+    <file name="contact.jpg" crc="4008207102" seo="true" ref="index"/>
+    <file name="africabackground.jpg" crc="6421107" ref="index:contact:giving:construction:events:bible"/>
+    <file name="arrow.png" crc="4108462488" seo="true" ref="contact:giving:construction:events:bible"/>
+    <file name="u1187-17.png" crc="38754976" ref="contact"/>
+    <file name="u1187-17-r.png" crc="3762338742" ref="contact"/>
+    <file name="u1187-17-m.png" crc="411266509" ref="contact"/>
+    <file name="u1187-17-fs.png" crc="273416854" ref="contact"/>
+    <file name="snapscan-accepted-here.jpg" crc="287508271" seo="true" ref="giving"/>
+    <file name="counselling level 2.jpg" crc="390201567" seo="true" ref="events"/>
+    <file name="joe van den berg.png" crc="204236535" seo="true" ref="events"/>
+    <file name="prophetic banner.png" crc="4173509273" seo="true" ref="events"/>
+    <file name="term theme super hero (medium).png" crc="4217042194" seo="true" ref="events"/>
+    <file name="u2326_states.png" crc="119810312" ref="bible"/>
+    <file name="u2326_states-r.png" crc="3874568501" ref="bible"/>
+    <file name="u2326_states-m.png" crc="215376213" ref="bible"/>
+    <file name="u2336_states.png" crc="3842918332" ref="bible"/>
+    <file name="u2336_states-r.png" crc="379791055" ref="bible"/>
+    <file name="u2336_states-m.png" crc="346747164" ref="bible"/>
+    <file name="u2346_states.png" crc="4278280239" ref="bible"/>
+    <file name="u2346_states-r.png" crc="143197622" ref="bible"/>
+    <file name="u2346_states-m.png" crc="226844525" ref="bible"/>
+  </folder>
+  <file name="index.html" crc="354131823" seo="true" mt="1473200705056" redirect="true"/>
+  <file name="contact.html" crc="268167874" seo="true" mt="1473200167047" redirect="true"/>
+  <file name="giving.html" crc="4027525408" seo="true" mt="1473200157523" redirect="true"/>
+  <file name="construction.html" crc="354908137" seo="true" mt="1473200145003" redirect="true"/>
+  <file name="events.html" crc="72358987" seo="true" mt="1473200661198" redirect="true"/>
+  <file name="bible.html" crc="4088910508" seo="true" mt="1473201462183" redirect="true"/>
+</manifest>
